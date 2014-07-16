@@ -1,4 +1,6 @@
-project_ideas
+Project Ideas
 =============
 
-Running List of Project Ideas
+A running list of project ideas and code test ideas.
+
+1. Get measurements from camera.
