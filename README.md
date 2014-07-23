@@ -1,4 +1,4 @@
-Code Snippet Ideas
+Code Snippet/Site Ideas
 =============
 
 A running list of project ideas and code test ideas.
